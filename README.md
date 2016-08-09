@@ -1,1 +1,3 @@
 # DoItyourself-GeoApps
+# Repository for the GeoApps course
+# Course material, pdfs, exercises, etc...
